@@ -1,7 +1,7 @@
 /*	
 	DCT Reference: http://www.mathworks.com/help/signal/ref/dct.html
 	Author: Leiming Yu 
-			ylm@ece.neu.edu
+            ylm@ece.neu.edu
  */
 #include <iostream>
 #include <new>
